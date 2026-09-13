@@ -1,4 +1,4 @@
-# TrueHireIndia 🇮🇳 — GenAI-Powered Intelligent Recruitment Platform
+# TrueHireIndia — GenAI-Powered Intelligent Recruitment Platform
 
 TrueHireIndia is a full-stack, GenAI-powered recruitment platform where AI converts unstructured resumes into structured candidate profiles, provides explainable job matching and skill-gap analysis, and assists recruiters — while HR strictly holds the final hiring decision.
 
@@ -45,7 +45,7 @@ python python_service/test_parse.py
 
 ---
 
-## 🎬 5-Minute College Demo Script
+## 🎬 Demo Script
 
 1. **Homepage (`/`)**:
    - Show hero and substantiated metrics.
